@@ -21,9 +21,15 @@
     <ClCompile Include="StringTools.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="SortedContainer.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringTools.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="SortedContainer.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>
