@@ -1,2 +1,12 @@
 
 *.db
+*.ipch
+*.opendb
+*.log
+*.tlog
+*.obj
+*.idb
+*.pdb
+AlgTip.pdf
+*.ilk
+*.exe
