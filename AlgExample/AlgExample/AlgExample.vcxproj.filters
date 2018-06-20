@@ -24,12 +24,24 @@
     <ClCompile Include="SortedContainer.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="MyBinaryTree.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="MyGraph.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="StringTools.h">
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="SortedContainer.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyBinaryTree.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="MyGraph.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

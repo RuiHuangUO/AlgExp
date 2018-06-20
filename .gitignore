@@ -10,3 +10,5 @@
 AlgTip.pdf
 *.ilk
 *.exe
+*.enc
+*.tmp
